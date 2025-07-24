@@ -51,14 +51,14 @@
 ## 📁 Project Structure
 
 ```
-renaissance-calculator/
-├── media/                  # Icons, cursors, and visuals
+Renaissance-Calculator/
+├── media/                  # Icons, cursors, and screenshots
 │   ├── calculator_icon.ico
 │   └── normal.cur
-├── images/                 # Screenshots
 │   └── screenshot.png
-├── calculator.h            # Declarations and global state
-├── calculator.cpp          # UI logic and event handling
+├── src/                 # Source code
+│   ├── calculator.h            # Declarations and global state
+│   └── calculator.cpp          # UI logic and event handling
 ├── main.cpp                # WinMain and window setup
 └── README.md
 ```
