@@ -23,7 +23,7 @@
 
 ## 🖼️ Screenshot
 
-![Renaissance Calculator Screenshot](images/screenshot.png)
+![Renaissance Calculator Screenshot](media/screenshot.png)
 
 ---
 
