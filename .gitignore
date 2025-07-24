@@ -1,0 +1,23 @@
+# Ignore build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.res
+
+# VS Code settings
+.vscode/
+
+# Debugging files
+*.log
+*.sdf
+*.ipch
+
+# User-specific
+*.user
+*.suo
+*.vcxproj.user
+
+# Backup
+*~
